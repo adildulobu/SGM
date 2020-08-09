@@ -37,7 +37,7 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="password" id="password_confirmation" class="form-control" placeholder="Retype password" name="password_confirmation" required autocomplete="new-password">
+          <input type="password" id="password_confirmation" class="form-control" placeholder="Confirme a password" name="password_confirmation" required autocomplete="new-password">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-lock"></span>
@@ -45,15 +45,6 @@
           </div>
         </div>
         <div class="row">
-          <!-- <div class="col-8">
-            <div class="icheck-primary">
-              <input type="checkbox" id="agreeTerms" name="terms" value="agree">
-              <label for="agreeTerms">
-               I agree to the <a href="#">terms</a>
-              </label>
-            </div>
-          </div> -->
-        
           <div class="col-12">
             <button type="submit" class="btn btn-primary btn-block">
             Registar
