@@ -29,14 +29,6 @@
           </div>
         </div>
         <div class="row">
-          <!-- <div class="col-8"> -->
-            <!-- <div class="icheck-primary">
-               <input type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
-              <label for="remember">
-                    {{ __('Remember Me') }}
-              </label>
-            </div>
-          </div> -->
           <!-- /.col -->
           <div class="col-12">
             <button type="submit" class="btn btn-primary btn-block">
@@ -44,6 +36,18 @@
             </button>
           </div>
         </div>
+
+
+          <div class="col-12 mt-2 ml-0">
+            <div class="#">
+              <label style="margin-left: -14px;">
+                    Crie uma conta.
+                    <a href="{{route('register')}}">
+                      Registar
+                    </a>
+              </label>
+            </div>
+          </div>
         </div>
       </form>
   </div>
