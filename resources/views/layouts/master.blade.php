@@ -22,7 +22,7 @@
     <a href="#" class="brand-link">
       <img src="./img/supermarket.png" alt="Mercearia logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
-      <span class="brand-text font-weight-light">SGA</span>
+      <span class="brand-text font-weight-light">Mercearia</span>
     </a>
     <div class="sidebar">
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
@@ -116,8 +116,7 @@
                         <i class="nav-icon fas fa-power-off red"></i>
                         <p>
                             {{ __('Logout') }}
-                        </p>
-                             
+                        </p>      
                   </a>
                 <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                   @csrf

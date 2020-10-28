@@ -2080,6 +2080,8 @@ __webpack_require__.r(__webpack_exports__);
   }
 });
 
+methods: {}
+
 /***/ }),
 
 /***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Dashboard.vue?vue&type=script&lang=js&":
@@ -56040,8 +56042,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\dell\Desktop\SGASystem\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\dell\Desktop\SGASystem\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\dell\Desktop\Desk\SGASystem\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\dell\Desktop\Desk\SGASystem\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

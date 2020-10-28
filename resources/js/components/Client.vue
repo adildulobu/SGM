@@ -70,6 +70,9 @@
             console.log('Component mounted.')
         }
     }
+    methods:{
+        
+    }
 </script>
 <style scoped>
 .ic{
